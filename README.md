@@ -2,7 +2,6 @@
 ## Selenium/Java/TestNG/Maven
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 This Automation framework cover scenarios, for Amazon.in customer use-cases.
 
@@ -15,8 +14,6 @@ This Automation framework cover scenarios, for Amazon.in customer use-cases.
 - Click on the first product and switch to new window
 - Scroll down the page until 'add to cart' button is visible
 - Click add to cart button and verify product is added in a cart
-
-![Image](Output.gif)
 
 ## Features
 
