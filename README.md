@@ -29,11 +29,4 @@ This Automation framework cover scenarios, for Amazon.in customer use-cases.
 - Test data passing using POI API(Excel)
 - Used Selenium commands 
 
-## [Connect on LinkedIn](https://www.linkedin.com/in/monali-waykar-925b29129/)
 
-
-## License
-
-MIT
-
-**Free Software, Hell Yeah!**
